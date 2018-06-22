@@ -2,3 +2,10 @@
 /Users/owner/Projects/ConsoleApp.SQLite/obj/Debug/netcoreapp2.1/ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
 /Users/owner/Projects/ConsoleApp.SQLite/obj/Debug/netcoreapp2.1/ConsoleApp.SQLite.AssemblyInfoInputs.cache
 /Users/owner/Projects/ConsoleApp.SQLite/obj/Debug/netcoreapp2.1/ConsoleApp.SQLite.AssemblyInfo.cs
+/Users/owner/Projects/ConsoleApp.SQLite/bin/Debug/netcoreapp2.1/ConsoleApp.SQLite.deps.json
+/Users/owner/Projects/ConsoleApp.SQLite/bin/Debug/netcoreapp2.1/ConsoleApp.SQLite.runtimeconfig.json
+/Users/owner/Projects/ConsoleApp.SQLite/bin/Debug/netcoreapp2.1/ConsoleApp.SQLite.runtimeconfig.dev.json
+/Users/owner/Projects/ConsoleApp.SQLite/bin/Debug/netcoreapp2.1/ConsoleApp.SQLite.dll
+/Users/owner/Projects/ConsoleApp.SQLite/bin/Debug/netcoreapp2.1/ConsoleApp.SQLite.pdb
+/Users/owner/Projects/ConsoleApp.SQLite/obj/Debug/netcoreapp2.1/ConsoleApp.SQLite.dll
+/Users/owner/Projects/ConsoleApp.SQLite/obj/Debug/netcoreapp2.1/ConsoleApp.SQLite.pdb
